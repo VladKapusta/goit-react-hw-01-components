@@ -1,0 +1,9 @@
+td{
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: 18px;
+}
+
+tr:nth-child(2n) {
+    background-color: rgb(184, 184, 184);
+}

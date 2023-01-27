@@ -1,0 +1,23 @@
+.online {
+    display: block;
+    width: 15px;
+    height: 15px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+.ofline {
+    display: block;
+    width: 15px;
+    height: 15px;
+  background-color: red;
+  border-radius: 50%;
+}
+.avatar {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black
+}
+.name {
+    font-size: 24px;
+}
